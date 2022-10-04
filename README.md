@@ -1,4 +1,4 @@
 # p1
 La primera pagina web
 
-https;//maariinaatorrus.github.io/p1/
+https;//maariinaatorrus.github.io/P1/
